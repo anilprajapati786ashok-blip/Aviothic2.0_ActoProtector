@@ -84,10 +84,6 @@ In the app interface:
    adb install -r build/app/outputs/flutter-apk/app-release.apk
 ***App is installed in your device now***
 
-**Team Leader: Arjun Gupta**
-
-**Team Members: Deepak Kumar Yadav, Abhay Gaur**
-
-
+**Team Leader: Anil & Arjun **
    
 (Due to deployment constraints with the on-device model (MobileFaceNet), we Implemented a temporary random prediction module to simulate expected model outputs during the demo phase. The system design, data flow, and ML pipeline remain compatible with future model Integration) 
